@@ -1,14 +1,29 @@
 {
-  "name": "custom-date",
+  "name": "abe-custom-date",
   "version": "1.0.0",
-  "description": "",
+  "description": "```shell abe add https://github.com/AdFabConnect/abe-custom-date.git ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Fabrice Labbé",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.12.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdFabConnect/abe-custom-date.git"
+  },
+  "keywords": [
+    "abe",
+    "cms",
+    "plugin",
+    "custom",
+    "date"
+  ],
+  "bugs": {
+    "url": "https://github.com/AdFabConnect/abe-custom-date/issues"
+  },
+  "homepage": "https://github.com/AdFabConnect/abe-custom-date#readme"
 }
